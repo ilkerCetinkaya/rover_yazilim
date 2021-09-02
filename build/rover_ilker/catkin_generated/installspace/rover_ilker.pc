@@ -1,0 +1,8 @@
+prefix=/home/ilker/catkin_ws/install
+
+Name: rover_ilker
+Description: Description of rover_ilker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
